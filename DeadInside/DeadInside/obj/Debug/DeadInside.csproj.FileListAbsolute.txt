@@ -1,0 +1,16 @@
+D:\06 С++\DeadInside\DeadInside\bin\Debug\DeadInside.exe.config
+D:\06 С++\DeadInside\DeadInside\bin\Debug\DeadInside.exe
+D:\06 С++\DeadInside\DeadInside\bin\Debug\DeadInside.pdb
+D:\06 С++\DeadInside\DeadInside\obj\Debug\DeadInside.csproj.AssemblyReference.cache
+D:\06 С++\DeadInside\DeadInside\obj\Debug\MainWindow.g.cs
+D:\06 С++\DeadInside\DeadInside\obj\Debug\App.g.cs
+D:\06 С++\DeadInside\DeadInside\obj\Debug\DeadInside_MarkupCompile.cache
+D:\06 С++\DeadInside\DeadInside\obj\Debug\DeadInside_MarkupCompile.lref
+D:\06 С++\DeadInside\DeadInside\obj\Debug\MainWindow.baml
+D:\06 С++\DeadInside\DeadInside\obj\Debug\DeadInside.g.resources
+D:\06 С++\DeadInside\DeadInside\obj\Debug\DeadInside.Properties.Resources.resources
+D:\06 С++\DeadInside\DeadInside\obj\Debug\DeadInside.csproj.GenerateResource.cache
+D:\06 С++\DeadInside\DeadInside\obj\Debug\DeadInside.csproj.CoreCompileInputs.cache
+D:\06 С++\DeadInside\DeadInside\obj\Debug\DeadInside.exe
+D:\06 С++\DeadInside\DeadInside\obj\Debug\DeadInside.pdb
+D:\06 С++\DeadInside\DeadInside\obj\Debug\GeneratedInternalTypeHelper.g.cs
